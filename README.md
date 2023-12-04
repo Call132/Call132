@@ -13,6 +13,12 @@
 
 ### 🎧 Now Playing
 [![Spotify](https://img.shields.io/badge/Now%20Playing-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/5ohw9qb1njwi4vyyqtr8wf3qf?si=ODT8WzW1RlKHznkchef7Fg )
+### 📊 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Call132&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### 🏆 Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Call132&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 # GitHub Stats
