@@ -1,26 +1,19 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+# Hi there :wave:, I'm Call!
 
+### Yosh!
+- :keyboard: I’m currently learning Web Development
+- :speech_balloon: Ask me about anything.
+- :mailbox: How to reach me: [Email me!](mailto:frzlhmd@gmail.com)
+- :cloud: Pronouns: He/Him
+- :game_die: Drawing and writing are part of me.
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Web Development </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:frzlhmd@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: He/Him </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/frzlhmd/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e"  />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+### Let's connect!
+[![Twitter](https://img.shields.io/badge/Twitter-%234CAF50.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yours)
+[![Instagram](https://img.shields.io/badge/Instagram-%234CAF50.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frzlhmd/)
+[![Blog](https://img.shields.io/badge/Blog-%234CAF50.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://yours.com/)
 
-###
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Call132&show_icons=true&theme=transparent)
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Call132&langs_count=8)
+---
+
+# GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Call132&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Call132&langs_count=8)
